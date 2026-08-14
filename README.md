@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi👋, I'm Victor
 
-<!--
-**Victor-Yulong/Victor-Yulong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Monash University Malaysia, interested in technology, problem-solving, and building useful products.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Python
+* Computer Science fundamentals
+* Git & GitHub
+
+## 💃 Interests
+
+* Software Development
+* Data Analysis
+* Product Management
+
+## 📂 Projects
+
+### CIMP ICS4U Java Projects
+
+A collection of projects I developed while studying Computer Science in the ICS4U program.
+
+More projects coming soon ~
+
+## ⚡ My Learning Journey
+
+I'm using GitHub to document my learning journey, build projects, and continuously improve my skills in Computer Science.
+
+Thanks for visiting✨!
